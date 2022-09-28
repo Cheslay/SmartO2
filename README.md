@@ -12,7 +12,8 @@ The purpose of this project is to make the oxygen dispensing of patients in need
 
 ## Features
 - The device should be able to detect the patients oxygen saturation.
-- The device uses a "patient database" to lookup from a database if the patient has COPD(chronic obstructive pulmonary disease) decide the target saturation.
+- The device uses a "patient database" to lookup from a database if the patient has COPD(chronic obstructive pulmonary disease)
+- The device decides the target saturation from the database lookup.
 - The device should dispence oxygen to the patient, to reach the patients optimal saturation.
 
 ## Sensors
