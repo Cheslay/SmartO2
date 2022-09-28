@@ -10,9 +10,9 @@
 The purpose of this project is to make the oxygen dispensing of patients in need of oxygen easier for the healthcare personel.
 
 ## Features
-The device should be able to detect the patients oxygen saturation
-The device should be able to detect if the patient has chronic obstructive lung disease, to decide the target saturation
-The device should dispence oxygen to the patient, to reach the patients optimal saturation
+- The device should be able to detect the patients oxygen saturation.
+- The device should be able to detect if the patient has chronic obstructive lung disease, to decide the target saturation.
+- The device should dispence oxygen to the patient, to reach the patients optimal saturation.
 
 ### Controller
 Prior to beginning this project, the controller has already been chosen. The project will be using a Particle Argon development board kit, this microcontroller is 3V3 logic and has input for a LiPo battery as well as an onboard LiPo charger module.
